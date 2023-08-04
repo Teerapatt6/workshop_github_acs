@@ -6,3 +6,4 @@ hello acs
 
 hello Thailand
 live laugh love
+welcome bkk
